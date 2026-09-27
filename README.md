@@ -97,7 +97,7 @@ All equation numbers below refer to the paper.
 ## Installation
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/fracassa/thirring-scattering-entanglement.git
 cd thirring-scattering-replication
 python3 -m venv .venv && source .venv/bin/activate   # optional but recommended
 pip install -r requirements.txt
